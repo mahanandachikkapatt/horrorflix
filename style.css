@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    font-family: "Creepster", system-ui;
+    text-align: center;
+    font-size: 800px;
+}
+h2{
+    color: red;
+    font-family: "Creepster", system-ui;
+    text-align: center;
+    font-size: 500px;
+}
+h3{
+    color: red;
+    font-family: "Creepster", system-ui;
+    text-align: center;
+    font-size: 300px;
+}
+img{
+    width: 100%;
+}
+iframe{
+    width: 40%;
+    height: 900px;
+}
